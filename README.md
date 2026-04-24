@@ -21,7 +21,7 @@ Not every article gets a companion repo. I only publish code I have actually run
 
 - **Medium** — [medium.com/@erickmancz](https://medium.com/@erickmancz)
 - **LinkedIn** — [linkedin.com/in/erick-mancz](https://linkedin.com/in/erick-mancz)
-- **AWS Builder Center** — [builder.aws.com/profiles/imancz](https://builder.aws.com/profiles/imancz)
+- **AWS Builder Center** — [builder.aws.com/community/@imancz](https://builder.aws.com/community/@imancz)
 - **Credly** — [credly.com/users/erick-mancz.66783c3e](https://www.credly.com/users/erick-mancz.66783c3e)
 - **Golden Jackets Brazil** — [goldenjacketsbrazil.com](https://goldenjacketsbrazil.com)
 
